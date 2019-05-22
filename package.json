@@ -1,0 +1,17 @@
+{
+  "name": "hockey-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kimmo Ihanus",
+  "license": "MIT",
+  "dependencies": {
+    "array-average": "^0.1.2",
+    "brain.js": "^1.6.1",
+    "csvtojson": "^2.0.8",
+    "sort-objects-array": "^1.5.0"
+  }
+}

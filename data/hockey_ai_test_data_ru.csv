@@ -1,0 +1,24 @@
+RK,Country,Name,Age,Pos,GP,G,A,P,PIM,PM,PPG,SHG,GWG,G_GP,A_GP,P_GP
+1,RU,Nikita Kucherov,25,H,7,6,9,15,2,9,2,0,1,0.857,1.286,2.143
+2,RU,Nikita Gusev,26,H,7,3,9,12,0,9,1,0,1,0.429,1.286,1.714
+3,RU,Evgeny Dadonov,30,H,7,7,3,10,0,4,4,0,1,1,0.429,1.429
+4,RU,Evgeny Kuznetsov,26,H,7,2,4,6,4,8,0,0,0,0.286,0.571,0.857
+5,RU,Dmitry Orlov,27,P,7,2,4,6,2,9,0,0,0,0.286,0.571,0.857
+6,RU,Artem Anisimov,30,H,7,3,2,5,4,8,0,0,1,0.429,0.286,0.714
+7,RU,Ilya Kovalchuk,36,H,7,2,3,5,4,5,0,0,0,0.286,0.429,0.714
+8,RU,Evgeni Malkin,32,H,7,1,4,5,4,5,0,0,0,0.143,0.571,0.714
+9,RU,Dinar Khafizullin,30,P,7,1,4,5,2,6,0,0,0,0.143,0.571,0.714
+10,RU,Nikita Zaitsev,27,P,7,2,2,4,0,8,0,0,1,0.286,0.286,0.571
+11,RU,Alexander Ovechkin,33,H,7,2,1,3,0,8,0,0,0,0.286,0.143,0.429
+12,RU,Mikhail Grigorenko,24,H,7,2,1,3,0,3,0,1,1,0.286,0.143,0.429
+13,RU,Alexander Barabanov,24,H,7,0,3,3,2,5,0,0,0,0,0.429,0.429
+14,RU,Mikhail Sergachyov,20,P,7,0,3,3,0,10,0,0,0,0,0.429,0.429
+15,RU,Ivan Telegin,27,H,6,1,1,2,4,4,0,0,0,0.167,0.167,0.333
+16,RU,Sergei Andronov,29,H,7,1,0,1,4,3,0,0,1,0.143,0,0.143
+17,RU,Kirill Kaprizov,22,H,6,1,0,1,2,2,0,0,0,0.167,0,0.167
+18,RU,Nikita Nesterov,26,P,7,0,1,1,4,8,0,0,0,0,0.143,0.143
+19,RU,Nikita Zadorov,24,P,6,0,1,1,14,4,0,0,0,0,0.167,0.167
+20,RU,Sergei Plotnikov,28,H,2,0,1,1,0,0,0,0,0,0,0.5,0.5
+21,RU,Vladislav Gavrikov,23,P,7,0,0,0,4,2,0,0,0,0,0,0
+22,RU,Andrei Vasilevski,24,M,5,0,0,0,0,0,0,0,0,0,0,0
+23,RU,Alexandar Georgiev,23,M,2,0,0,0,2,0,0,0,0,0,0,0

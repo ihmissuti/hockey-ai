@@ -1,0 +1,26 @@
+RK,Country,Name,Age,Pos,GP,G,A,P,PIM,PM,PPG,SHG,GWG,G_GP,A_GP,P_GP
+1,DE,Leon Draisaitl,23,H,7,5,3,8,0,4,1,0,2,0.714,0.429,1.143
+2,DE,Markus Eisenschmid,24,H,7,1,6,7,2,2,0,0,0,0.143,0.857,1
+3,DE,Matthias Plachta,27,H,7,2,3,5,0,2,1,0,1,0.286,0.429,0.714
+4,DE,Dominik Kahun,23,H,7,1,4,5,0,3,0,0,0,0.143,0.571,0.714
+5,DE,Frederik Tiffels,23,H,7,2,1,3,4,4,0,0,1,0.286,0.143,0.429
+6,DE,Yannic Seidenberg,35,H,7,0,3,3,2,-1,0,0,0,0,0.429,0.429
+7,DE,Yasin Ehliz,26,H,7,2,0,2,2,1,1,0,1,0.286,0,0.286
+8,DE,Marc Michaelis,23,H,5,2,0,2,0,1,0,0,0,0.4,0,0.4
+9,DE,Moritz Seider,18,P,4,2,0,2,2,2,0,0,0,0.5,0,0.5
+10,DE,Korbinian Holzer,31,P,7,1,0,1,16,5,0,0,0,0.143,0,0.143
+11,DE,Frank Mauer,31,H,7,0,1,1,0,1,0,0,0,0,0.143,0.143
+12,DE,Patrick Hager,30,H,7,0,1,1,18,2,0,0,0,0,0.143,0.143
+13,DE,Gerrit Fauser,29,H,7,0,1,1,0,0,0,0,0,0,0.143,0.143
+14,DE,Leo Pfoderl,25,H,6,0,1,1,0,-3,0,0,0,0,0.167,0.167
+15,DE,Jonas Muller,23,P,5,0,1,1,2,1,0,0,0,0,0.2,0.2
+16,DE,Moritz Muller,32,P,7,0,0,0,2,6,0,0,0,0,0,0
+17,DE,Marcel Noebels,27,H,7,0,0,0,0,-3,0,0,0,0,0,0
+18,DE,Marco Nowak,28,P,7,0,0,0,6,-1,0,0,0,0,0,0
+19,DE,Denis Reul,29,P,6,0,0,0,2,-4,0,0,0,0,0,0
+20,DE,Benedikt Schopper,34,P,6,0,0,0,6,-4,0,0,0,0,0,0
+21,DE,Lean Bergmann,20,H,5,0,0,0,0,-2,0,0,0,0,0,0
+22,DE,Mathias Niederberger,26,M,4,0,0,0,0,0,0,0,0,0,0,0
+23,DE,Philipp Grubauer,27,M,2,0,0,0,0,0,0,0,0,0,0,0
+24,DE,Niklas Treutle,28,M,2,0,0,0,0,0,0,0,0,0,0,0
+25,DE,Stefan Loibl,22,H,2,0,0,0,0,0,0,0,0,0,0,0
